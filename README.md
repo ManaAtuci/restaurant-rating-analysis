@@ -15,7 +15,7 @@ This project analyzes restaurant rating data from Mexico to provide actionable i
 *  **Target Investment Segment:** Young professionals aged 25-34 with medium budgets
 
 # Files in this Repository
-*  **Restaurant Rating Analysis - Mexico Market Report:** The final report containing all analysis, charts, and strategic recommendations.
+*  **Restaurant Rating Analysis - Mexico Market Report(https://github.com/ManaAtuci/restaurant-rating-analysis/blob/main/Restaurant%20Rating%20Analysis%20-%20Mexico%20Market%20Report.pdf):** The final report containing all analysis, charts, and strategic recommendations.
 *  **MANA ATUCI - CAPSTONE PROJECT.sql:** The complete SQL script used for data cleaning, analysis, and generating all insights in the report.
 
 # How to Run the SQL Analysis
