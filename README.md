@@ -16,7 +16,7 @@ This project analyzes restaurant rating data from Mexico to provide actionable i
 
 # Files in this Repository
 *  **Restaurant Rating Analysis - Mexico Market Report(https://github.com/ManaAtuci/restaurant-rating-analysis/blob/main/Restaurant%20Rating%20Analysis%20-%20Mexico%20Market%20Report.pdf):** The final report containing all analysis, charts, and strategic recommendations.
-*  **MANA ATUCI - CAPSTONE PROJECT.sql(https://github.com/ManaAtuci/restaurant-rating-analysis/blob/main/Restaurant%20Rating%20Analysis.sql):** The complete SQL script used for data cleaning, analysis, and generating all insights in the report.
+*  **Restaurant Rating Analysis.sql(https://github.com/ManaAtuci/restaurant-rating-analysis/blob/main/Restaurant%20Rating%20Analysis.sql):** The complete SQL script used for data cleaning, analysis, and generating all insights in the report.
 
 # How to Run the SQL Analysis
 1. Download the .sql file from this repository.
