@@ -3,7 +3,7 @@ Restaurant Rating Analysis for Mexico Market Intelligence Report 2012
 
 
 # Project Overview
-This project analyzes restaurant rating data from Mexico to provide actionable insights for business entrepreneurs and investors. The analysis examines consumer preferences, demographic patterns, market gaps, and investment opportunities in the restaurant industry. The data comes from a customer survey conducted in Mexico in 2012, collating information about restaurants, their cuisines, consumers, and their preferences. [ci
+This project analyzes restaurant rating data from Mexico to provide actionable insights for business entrepreneurs and investors. The analysis examines consumer preferences, demographic patterns, market gaps, and investment opportunities in the restaurant industry. The data comes from a customer survey conducted in Mexico in 2012, collating information about restaurants, their cuisines, consumers, and their preferences.
 
 # Key Insights
 *  **Total Consumers:** 138
