@@ -46,4 +46,4 @@ The report answers four key business questions:
 **PostgreSQL** - Data storage, cleaning, and analysis
 
 # Author
-**Data Analyst | Mexico Restaurant Survey 2012 | June 2026**
+**Mana Atuci | Mexico Restaurant Survey 2012 | June 2026**
